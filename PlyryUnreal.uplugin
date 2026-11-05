@@ -1,0 +1,15 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "Plyry",
+  "Description": "Unreal Engine client for the Plyry API and customizable local UMG account UI.",
+  "Category": "Online",
+  "CreatedBy": "Plyry",
+  "CreatedByURL": "https://plyry.com",
+  "DocsURL": "https://plyry.com/docs/api",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [{ "Name": "PlyryUnreal", "Type": "Runtime", "LoadingPhase": "Default" }]
+}
